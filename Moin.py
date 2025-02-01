@@ -8,9 +8,9 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 from threading import Thread
 
 # Configuration
-TOKEN = '7343295464:AAEM7vk5K3cNXAywZC_Q11wmMzMu4gk09PU'  # Replace with your Bot's token
-ADMIN_IDS = [6218253783]   # Replace with your Telegram User ID
-USERNAME = "@MoinOwner"  # Replace with your bot's username
+TOKEN = '7932837495:AAHnHdUqkzDtUXq71DLa-cnqWeDYWB4Durw'  # Replace with your Bot's token
+ADMIN_IDS = [5496190244]   # Replace with your Telegram User ID
+USERNAME = "@JORD_PAPA_BOL"  # Replace with your bot's username
 REQUEST_INTERVAL = 1  # Interval for the asyncio loop
 USERS_FILE = 'users.json'
 KEYS_FILE = 'keys.json'
